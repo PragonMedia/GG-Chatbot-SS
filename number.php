@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 }
 
 // For now, hardcoded phone number - in the future this will make an API call to a server
-$phoneNumber = "18664982822";
+$phoneNumber = "13213980346";
 
 // Return the phone number as JSON
 echo json_encode([
